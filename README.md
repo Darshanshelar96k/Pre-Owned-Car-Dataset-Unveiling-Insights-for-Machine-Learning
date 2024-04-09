@@ -1,13 +1,16 @@
-# "Pre-Owned Car Dataset: Unveiling Insights for Machine Learning"
+# Pre-Owned Car Dataset: Unveiling Insights for Machine Learning
 
 ## Overview
 This dataset comprises information about used cars, providing a valuable resource for tackling various machine learning problems such as regression and recommendation. With a total of 6 columns and over 31,000 rows, this dataset offers ample opportunities to explore different machine learning techniques and data science projects.
 
 ## Dataset Details
-- **Total Rows**: 31,000+
-- **Columns**: 6
-    1. **Name**: The name of the car model.
-    2. **[Add more details about other columns if available]**
+Total Rows: 31,000+
+Columns:
+- Name: The name of the car model.
+- Price: The price of the used car.
+- KM: The distance traveled by the car (in kilometers).
+- Fuel Type: The type of fuel used by the car.
+- Location: The location where the car is currently located.
 
 ## Potential Use Cases
 This dataset offers versatility for machine learning and data science projects. Some potential applications include:
